@@ -50,7 +50,6 @@ This project aims to;
 5. EOSIO Verify PassID smart contract.
 6. Coordination with B1 devs for (WASM intrinsic) RSA decryption.
 7. Further research to cover more and more edge/future cases.
-8. ZeroPass or our friends  can also deploy all apps on stores as well (They are deploying Authenticators on iOS and Chrome with our help).
     
 
   
