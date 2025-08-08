@@ -3,6 +3,7 @@ The cocument type identifies the type of MRTD document e.g. type beginning with 
 
 **Doc types:**
   - 'P' - passport
+    'PP' - used by regular (non emergency/special/etc) Dutch passports as of 2025.
     'Px' - passport document with sub type 'x' where x can be any uppercase letter
   - 'AR' - probably Residence Permit Document. It's probably not a passport.
   - 'AC' - Crew  Member  Certificate – CMC, specified in doc ICAO 9303-p5 Appendix C to Part 5
