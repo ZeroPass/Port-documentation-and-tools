@@ -3,6 +3,7 @@ The cocument type identifies the type of MRTD document e.g. type beginning with 
 
 **Doc types:**
   - 'P' - passport
+    'PP' - used by regular (non emergency/special/etc) Dutch passports as of 2025.
     'Px' - passport document with sub type 'x' where x can be any uppercase letter
   - 'AR' - probably Residence Permit Document. It's probably not a passport.
   - 'AC' - Crew  Member  Certificate – CMC, specified in doc ICAO 9303-p5 Appendix C to Part 5
@@ -13,6 +14,7 @@ The cocument type identifies the type of MRTD document e.g. type beginning with 
     'IX' - found in Spanish DSC certificate.
            Also found found in Bulgarian DSC, ser. no.: 78f0bfccfdd923c8 ;  OU = Electronic PassportsCN = DocSigner-R 044
            not verified if valid passport signed or only identity card signer.
+    'C' - found in an Italian ID card.
   - 'KR' - Found in South Korean DSC certificates issued in august 2020. Example DSC cert ser. no.: 0147.
            From wikipedia South Korea is issuing new version of biometric passport starting in June 2020. First issued passports are
            for diplomatic and official passports holders and in December 2020 for those holding an ordinary passport.
